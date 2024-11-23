@@ -1,0 +1,18 @@
+Which of the following sorting algorithms is used along quicksort to sort the sub arrays?
+(a) Merge Sort
+(b) Selection Sort
+(c) Insertion Sort
+(d) Bubble Sort
+
+Ans is Insertation sort as insertation sort algorithm is efficient for small datasets like subarrays
+
+How many subarrays does the partitioning step of the quick sort algorithm divide the entire
+array into?
+(a) one
+(b) two
+(c) depends on the elements of the array
+(d) depends on the size of the array
+
+Ans is c part  depends on the elements of the array as we are choosing the pivot and then greater than pivot is pushed to right of the pivot 
+and smaller than pivot is pushed to left of the pivot in some case pivot is last element or in some case pivot is first element at that two stages
+the subarray is only one (ya right ma ya left ma ) isliya ya depend krta ha elements pa
